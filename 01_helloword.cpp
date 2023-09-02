@@ -5,5 +5,5 @@ using namespace std;                       // using namespace std --- std holds 
 int main()
 {
     cout<<"Hello World.....!";              // << -- insertion operator
-    return 0; 
+    return 0;                               // >> -- extraction operator
 }
