@@ -24,3 +24,4 @@ int main()
     cout<<name2::name;
     return 0;
 }
+
